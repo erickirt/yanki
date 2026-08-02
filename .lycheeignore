@@ -1,0 +1,18 @@
+# Fragment resolution detection issues
+https://github.com/ankitects/anki/issues/2302#issuecomment-1374374155
+https://obsidian.md/help/links#Link+to+a+block+in+a+note
+https://obsidian.md/help/links#Link+to+a+heading+in+a+note
+
+# Lingers in test/fixtures/anki-data-folder/addons21/2055492159/config.md
+https://foosoft.net/projects/anki-connect/
+
+# File links
+file:///*
+
+# Relative test links
+/Cards/*
+/Assets/*
+/yanki image.jpg
+
+# Overzealous redirects
+https://nodejs.org
